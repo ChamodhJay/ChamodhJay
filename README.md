@@ -17,11 +17,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **Affero E-check in**
+- 🔭 I’m currently working on **Affero Self-check in web app**
 
-- 🌱 I’m currently learning **HNDIT at Sliate Kandy**
+- 🌱 I Have Successfully Completed **HNDIT at Sliate Kandy**
 
-- 👨‍💻 All of my projects are available at [https://chamodjay.kesug.com/](https://chamodjay.kesug.com/)
+- 👨‍💻 All of my projects are available at [https://chamodjay.netlify.app/]
 
 - 💬 Ask me about **JAVA/C#/PHP**
 
